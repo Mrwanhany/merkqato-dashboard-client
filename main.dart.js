@@ -48151,7 +48151,7 @@ aM(){var s=this
 s.b9()
 s.r=A.bQ(null,B.lt,null,null,s)
 s.e.si0(0,"demo@example.com")
-s.f.si0(0,"password")
+s.f.si0(0,"password@2W")
 $.ah.k3$.push(new A.awS(s))},
 l(){var s=this,r=s.e,q=$.aB()
 r.H$=q
